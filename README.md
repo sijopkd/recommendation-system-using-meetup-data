@@ -3,4 +3,4 @@ Recommendation engines are super simple or atleast, they are made to seem super 
 
 
 ## Credits
-- Starter code has been taken from (Sumit Kumar Arora) [https://github.com/reachsumit ]
+- Starter code has been taken from [Sumit Kumar Arora](https://github.com/reachsumit)
