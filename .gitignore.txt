@@ -1,7 +1,0 @@
-categories_new.csv
-cities_new.csv
-events_all_new.csv
-groups_austin.csv
-members_delta.csv
-members_new.csv
-members_rsvp.csv
