@@ -1,5 +1,5 @@
 # Recommendation-system-using-meetup-data
-# How to build a recommendation system from scratch? 
+## *How to build a recommendation system from scratch?*
 
 ![Image description](meetup_logo.png) <br />
 Image source: https://www.meetup.com/apps/ 
