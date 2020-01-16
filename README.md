@@ -25,10 +25,10 @@ The recommendation system was evaluated using the Area Under the ROC curve for a
 ## Results 
 
 1) ALS using RSVP Counts:
-    - AUC(model):0.761 
+    - AUC(model): 0.761 
     - AUC(popular recommendations): 0.837
 2) ALS using TimeDelta:
-    - AUC(model):0.809
+    - AUC(model): 0.809
     - AUC(popular recommendations): 0.859
 
 ## Conclusions 
