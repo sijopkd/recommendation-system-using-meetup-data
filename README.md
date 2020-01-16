@@ -24,7 +24,18 @@ The recommendation system was evaluated using the Area Under the ROC curve for a
 
 ## Results 
 
-1) 
+1) ALS using RSVP Counts:
+    - AUC(model):0.761 
+    - AUC(popular recommendations): 0.837
+2) ALS using TimeDelta:
+    - AUC(model):0.809
+    - AUC(popular recommendations): 0.859
+
+## Conclusions 
+
+Eventhough the model could not outperform the baselines, it is a great starting point. New systems could be built using different algorithms to produce better results. Having said so, it does not mean that the recommendations are not inappropriate. The recommendation system was used to recommend one of our classmates the groups she might be interested to be part of and most of them aligned with the topics she likes (based on her RSVP counts). 
+
 
 ## Credits
+
 - Starter code has been taken from [Sumit Kumar Arora](https://github.com/reachsumit).
