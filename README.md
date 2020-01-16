@@ -17,8 +17,8 @@ The recommendation system was evaluated using the Area Under the ROC curve for a
 
 1) Data Source: Extracted data of Austin, Texas using Meetup API to extract JSON objects of events, groups, rsvp counts etc.  
 2) Data wrangling to create user-item matrix using implicit feedbacks 
-  - RSVP counts: Number of times a user has attended a group's event
-  - TimeDelta: The number of days between a user 
+    - RSVP counts: Number of times a user has attended a group's event
+    - TimeDelta: The number of days between a user 
 3) Hyperparameter tuning using PySpark on the Databrick platform 
 4) Final recommendations using the selected hyperparameters 
 
